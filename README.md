@@ -28,18 +28,6 @@ The equations are discretized using a finite volume method with Rusanov flux and
   - `plot.py`: Contains plotting functions for height and velocity.
 - `README.md`: Project documentation.
 
-## Requirements
-
-- Python 3.x
-- numpy
-- matplotlib
-
-Install dependencies:
-
-```bash
-pip install numpy matplotlib
-```
-
 ## Usage
 
 Run the main simulation:
